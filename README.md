@@ -31,3 +31,7 @@ N/A
 Please see my github | Contact me for questions
 ------------ | -------------
 [Github Profile](https://github.com/damiandeleon) | damianmdeleon@gmail.com
+## Demonstration Videos
+Video 1:  https://drive.google.com/file/d/1G_1at7GJrKu3zP3Qnn6mUfPRO36KaFmt/view
+
+Video 2: https://drive.google.com/file/d/1_ngM9s3aClC-Io0mRCX4nQnZZdJf_ljO/view
